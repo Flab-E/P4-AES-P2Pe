@@ -1,0 +1,26 @@
+2024-04-21 19:29:32,168 - __main__ - INFO - Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUZsEZ/AsAgonTM7MoDwSn+Twjnt7
+DyQigZBnXqZVOvSGopqGR7tEezeTgwTOcjx9RO2eNnNR86XIJ0bdZ6p7pg==
+-----END PUBLIC KEY-----
+2024-04-21 19:29:32,290 - __main__ - INFO - Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoiDHf4FnzzkmZtwRBHg/YHMd2JMT
+O/NLXI0U1exvo1PsXBI3ZJIDHCRbmyffdMId4JdxoLw4vHW0Vz0cJmbPHQ==
+-----END PUBLIC KEY-----
+2024-04-21 19:29:32,292 - __main__ - INFO - Key: b'\t\x87j;PCIo\xfa(\xd1\xf5\x03N^\x11\xf2\xb2vh\xdd\xef\xdcT8&I\x03t\xc0\x9e\x8d'
+2024-04-21 19:29:32,292 - __main__ - INFO - Time taken for key exchange: 0.243743896484375
+2024-04-21 19:29:32,293 - __main__ - INFO - Time taken for encrypting message: 0.00010561943054199219
+2024-04-21 19:29:32,536 - __main__ - INFO - Received: b''
+2024-04-21 19:29:32,536 - __main__ - INFO - Time taken for decrypting message: 0.11958813667297363
+2024-04-21 19:29:32,536 - __main__ - INFO - Time taken for encrypting message: 9.846687316894531e-05
+2024-04-21 19:29:32,784 - __main__ - INFO - Received: b''
+2024-04-21 19:29:32,784 - __main__ - INFO - Time taken for decrypting message: 0.11941099166870117
+2024-04-21 19:29:32,784 - __main__ - INFO - Time taken for encrypting message: 4.363059997558594e-05
+2024-04-21 19:29:33,023 - __main__ - INFO - Received: b''
+2024-04-21 19:29:33,023 - __main__ - INFO - Time taken for decrypting message: 0.11939859390258789
+2024-04-21 19:29:33,023 - __main__ - INFO - Time taken for encrypting message: 9.393692016601562e-05
+2024-04-21 19:29:33,272 - __main__ - INFO - Received: b''
+2024-04-21 19:29:33,273 - __main__ - INFO - Time taken for decrypting message: 0.11937880516052246
+2024-04-21 19:29:33,273 - __main__ - INFO - Time taken for encrypting message: 8.7738037109375e-05
+2024-04-21 19:29:33,519 - __main__ - INFO - Received: b''
+2024-04-21 19:29:33,519 - __main__ - INFO - Time taken for decrypting message: 0.1193079948425293
+2024-04-21 19:29:33,519 - __main__ - INFO - Total Time taken: 0.8419888019561768

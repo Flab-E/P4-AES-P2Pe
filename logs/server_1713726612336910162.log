@@ -1,0 +1,28 @@
+2024-04-21 18:46:05,335 - __main__ - INFO - Server started on 0.0.0.0:12345
+2024-04-21 18:46:14,118 - __main__ - INFO - Connection from ('192.168.2.10', 57518)
+2024-04-21 18:46:14,121 - __main__ - INFO - 	('192.168.2.10', 57518)\Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBFEdb/ktd+5GRFMa+mqNArQ+LGIm
+S9WsaMur0b5mFpsMZq2l/ZIeCm5bSrgqB54Pv2EmUitDiCnRzM4dZ6qGzA==
+-----END PUBLIC KEY-----
+2024-04-21 18:46:14,121 - __main__ - INFO - 	('192.168.2.10', 57518)	Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3wkcC3VHE4wpDW1Iu6g+WjLCF5DB
+xpG+dES5vRTOthoI76LGbmwjyY5Siy51+1+DV5+e+eMSiqmP7oZycZRQ9Q==
+-----END PUBLIC KEY-----
+2024-04-21 18:46:14,121 - __main__ - INFO - 	('192.168.2.10', 57518)	Key: b'|I`\x84\xb4a\xb0 b@K\xccY\x03\xb3\x82\xb3W\x7f\x8b\xaeU\x0b\x05\x99\xc7\xca\xe5h|C\xd7'
+2024-04-21 18:46:14,121 - __main__ - INFO - 	('192.168.2.10', 57518)	Key share time: 0.0031843185424804688
+2024-04-21 18:46:14,243 - __main__ - INFO - 	('192.168.2.10', 57518)	Received: b''
+2024-04-21 18:46:14,243 - __main__ - INFO - 	('192.168.2.10', 57518)	Decryption time: 0.12138915061950684
+2024-04-21 18:46:14,243 - __main__ - INFO - 	('192.168.2.10', 57518)	Encryption time: 7.915496826171875e-05
+2024-04-21 18:46:14,362 - __main__ - INFO - 	('192.168.2.10', 57518)	Received: b''
+2024-04-21 18:46:14,362 - __main__ - INFO - 	('192.168.2.10', 57518)	Decryption time: 0.11917304992675781
+2024-04-21 18:46:14,362 - __main__ - INFO - 	('192.168.2.10', 57518)	Encryption time: 3.719329833984375e-05
+2024-04-21 18:46:14,482 - __main__ - INFO - 	('192.168.2.10', 57518)	Received: b'\xc5\x8c\xcd\x08'
+2024-04-21 18:46:14,482 - __main__ - INFO - 	('192.168.2.10', 57518)	Decryption time: 0.11929130554199219
+2024-04-21 18:46:14,482 - __main__ - INFO - 	('192.168.2.10', 57518)	Encryption time: 4.220008850097656e-05
+2024-04-21 18:46:14,601 - __main__ - INFO - 	('192.168.2.10', 57518)	Received: b'\xa4,\xca\x9fi^\xeck\xff\x01\x19%\xb4\x13^\xc3\xc1\xec\xc7\xb0\x10\xe9\xfe\xe9\xd7\xbf\xca\xba.\x06\xd5\xfeD.\x9f\xd4(\xf3\xdbG\xf2\xed(\xfby'
+2024-04-21 18:46:14,601 - __main__ - INFO - 	('192.168.2.10', 57518)	Decryption time: 0.11927318572998047
+2024-04-21 18:46:14,601 - __main__ - INFO - 	('192.168.2.10', 57518)	Encryption time: 4.172325134277344e-05
+2024-04-21 18:46:14,721 - __main__ - INFO - 	('192.168.2.10', 57518)	Received: b''
+2024-04-21 18:46:14,721 - __main__ - INFO - 	('192.168.2.10', 57518)	Decryption time: 0.11936330795288086
+2024-04-21 18:46:14,721 - __main__ - INFO - 	('192.168.2.10', 57518)	Encryption time: 4.3392181396484375e-05
+2024-04-21 18:46:14,842 - __main__ - INFO - 	('192.168.2.10', 57518)	Total Time: 0.7237696647644043

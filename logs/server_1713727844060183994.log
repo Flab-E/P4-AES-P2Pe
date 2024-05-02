@@ -1,0 +1,28 @@
+2024-04-21 19:29:28,685 - __main__ - INFO - Server started on 0.0.0.0:12345
+2024-04-21 19:29:32,228 - __main__ - INFO - Connection from ('192.168.2.10', 34746)
+2024-04-21 19:29:32,231 - __main__ - INFO - 	('192.168.2.10', 34746)\Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUZsEZ/AsAgonTM7MoDwSn+Twjnt7
+DyQigZBnXqZVOvSGopqGR7tEezeTgwTOcjx9RO2eNnNR86XIJ0bdZ6p7pg==
+-----END PUBLIC KEY-----
+2024-04-21 19:29:32,231 - __main__ - INFO - 	('192.168.2.10', 34746)	Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoiDHf4FnzzkmZtwRBHg/YHMd2JMT
+O/NLXI0U1exvo1PsXBI3ZJIDHCRbmyffdMId4JdxoLw4vHW0Vz0cJmbPHQ==
+-----END PUBLIC KEY-----
+2024-04-21 19:29:32,232 - __main__ - INFO - 	('192.168.2.10', 34746)	Key: b'\t\x87j;PCIo\xfa(\xd1\xf5\x03N^\x11\xf2\xb2vh\xdd\xef\xdcT8&I\x03t\xc0\x9e\x8d'
+2024-04-21 19:29:32,232 - __main__ - INFO - 	('192.168.2.10', 34746)	Key share time: 0.0033884048461914062
+2024-04-21 19:29:32,353 - __main__ - INFO - 	('192.168.2.10', 34746)	Received: b''
+2024-04-21 19:29:32,353 - __main__ - INFO - 	('192.168.2.10', 34746)	Decryption time: 0.12111520767211914
+2024-04-21 19:29:32,353 - __main__ - INFO - 	('192.168.2.10', 34746)	Encryption time: 0.00010776519775390625
+2024-04-21 19:29:32,595 - __main__ - INFO - 	('192.168.2.10', 34746)	Received: b''
+2024-04-21 19:29:32,596 - __main__ - INFO - 	('192.168.2.10', 34746)	Decryption time: 0.1193840503692627
+2024-04-21 19:29:32,596 - __main__ - INFO - 	('192.168.2.10', 34746)	Encryption time: 8.20159912109375e-05
+2024-04-21 19:29:32,849 - __main__ - INFO - 	('192.168.2.10', 34746)	Received: b''
+2024-04-21 19:29:32,849 - __main__ - INFO - 	('192.168.2.10', 34746)	Decryption time: 0.11917328834533691
+2024-04-21 19:29:32,849 - __main__ - INFO - 	('192.168.2.10', 34746)	Encryption time: 7.486343383789062e-05
+2024-04-21 19:29:33,098 - __main__ - INFO - 	('192.168.2.10', 34746)	Received: b'\xbePW42 v\xe9\xed\xd6\xffG3p\xfc\xa9w\xb0pC\xb9\xba\xb4\x1c\xe9\x89\x9e\x8egQ'
+2024-04-21 19:29:33,098 - __main__ - INFO - 	('192.168.2.10', 34746)	Decryption time: 0.11927652359008789
+2024-04-21 19:29:33,099 - __main__ - INFO - 	('192.168.2.10', 34746)	Encryption time: 7.462501525878906e-05
+2024-04-21 19:29:33,344 - __main__ - INFO - 	('192.168.2.10', 34746)	Received: b''
+2024-04-21 19:29:33,345 - __main__ - INFO - 	('192.168.2.10', 34746)	Decryption time: 0.11925816535949707
+2024-04-21 19:29:33,345 - __main__ - INFO - 	('192.168.2.10', 34746)	Encryption time: 7.462501525878906e-05
+2024-04-21 19:29:34,592 - __main__ - INFO - 	('192.168.2.10', 34746)	Total Time: 0.7251617908477783

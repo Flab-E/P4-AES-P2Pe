@@ -1,0 +1,59 @@
+2024-04-21 18:37:30,784 - __main__ - INFO - Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4zjeVpp2T70kKkaWnM2DHymWN+uy
+s4+SbxHNZxMLoE6ggbWmYxKyg1Tp42o83CBs2mrYJ9YZP5H6/IbZAOkNDg==
+-----END PUBLIC KEY-----
+2024-04-21 18:37:30,907 - __main__ - INFO - Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKU+N7LvdpoeetO+6tzfWiMYAe/Tu
+IHZlE7E78zOhTvbeRHS09I/psEPEQw1Y+AkNMqo5hCJh9quhUQ1/2NY1tQ==
+-----END PUBLIC KEY-----
+2024-04-21 18:37:30,908 - __main__ - INFO - Key: b"\xa6\xfe\xa3\x98\x96v'j\xd8\xcb\xddKEh8\xec\x96\xb4SD\xe3)\xa2\x0f\x16^\x02\xc3\x88#G\xc5"
+2024-04-21 18:37:30,908 - __main__ - INFO - Time taken for key exchange: 0.24384474754333496
+2024-04-21 18:37:30,908 - __main__ - INFO - Time taken for encrypting message: 0.000110626220703125
+2024-04-21 18:41:29,558 - __main__ - INFO - Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEv3L1ysxNvtyFWjRyaD4oSVeBDL7X
++eqG6HaTIgHbirvOWMrtj7gsLqOwiTO1jkJssLLz/EtJc5Cse1ZZvCpXtw==
+-----END PUBLIC KEY-----
+2024-04-21 18:41:29,680 - __main__ - INFO - Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEKhVgnIYgfEompG24pG++D8JvJ+B4
+XTuHjCoyIiSx+Bc2DWgkZq67vlghGMlipHqq2bWjPzlJWLuCzguoUGmzZw==
+-----END PUBLIC KEY-----
+2024-04-21 18:41:29,682 - __main__ - INFO - Key: b'v6\x9dN\x15L\x05\xe3\xce\xfd\xa4\xbe>\xcc\x8d\xf6r(\x90!\xe4&\x86>\x11?d$\xec:,\xf1'
+2024-04-21 18:41:29,682 - __main__ - INFO - Time taken for key exchange: 0.24335336685180664
+2024-04-21 18:41:29,682 - __main__ - INFO - Time taken for encrypting message: 0.0001399517059326172
+2024-04-21 18:44:19,284 - __main__ - INFO - Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEI5DK6TQ16p8zYsX43jUlJhmXTVIF
+sMtrkJ9C3zyh28f+JNnlzk4RNLETjPDbJlwRMYr+BfsJBqGEXg9JDTvtYg==
+-----END PUBLIC KEY-----
+2024-04-21 18:44:19,406 - __main__ - INFO - Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE21k5uiQHGddj4TaH+M0M0IySScGS
+Ru3k6Uq6lFuwRoJroiIga9nXL55Gb5XcC9PiwtYMf9VZo169/fZ42h0VVQ==
+-----END PUBLIC KEY-----
+2024-04-21 18:44:19,408 - __main__ - INFO - Key: b'Tg\x0e\xd9\xbb\x9cG\x08D\xc1\x91\xf2\x942\xa7c\x8d\x13\x86\x06\x1b|\xbbNa\xfa\x11\xed<\rL\xd6'
+2024-04-21 18:44:19,408 - __main__ - INFO - Time taken for key exchange: 0.24309587478637695
+2024-04-21 18:44:19,408 - __main__ - INFO - Time taken for encrypting message: 0.00011968612670898438
+2024-04-21 18:46:14,058 - __main__ - INFO - Public Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBFEdb/ktd+5GRFMa+mqNArQ+LGIm
+S9WsaMur0b5mFpsMZq2l/ZIeCm5bSrgqB54Pv2EmUitDiCnRzM4dZ6qGzA==
+-----END PUBLIC KEY-----
+2024-04-21 18:46:14,180 - __main__ - INFO - Peer Key: -----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3wkcC3VHE4wpDW1Iu6g+WjLCF5DB
+xpG+dES5vRTOthoI76LGbmwjyY5Siy51+1+DV5+e+eMSiqmP7oZycZRQ9Q==
+-----END PUBLIC KEY-----
+2024-04-21 18:46:14,182 - __main__ - INFO - Key: b'|I`\x84\xb4a\xb0 b@K\xccY\x03\xb3\x82\xb3W\x7f\x8b\xaeU\x0b\x05\x99\xc7\xca\xe5h|C\xd7'
+2024-04-21 18:46:14,182 - __main__ - INFO - Time taken for key exchange: 0.24369263648986816
+2024-04-21 18:46:14,183 - __main__ - INFO - Time taken for encrypting message: 0.00011134147644042969
+2024-04-21 18:46:14,302 - __main__ - INFO - Received: b''
+2024-04-21 18:46:14,302 - __main__ - INFO - Time taken for decrypting message: 0.11930274963378906
+2024-04-21 18:46:14,302 - __main__ - INFO - Time taken for encrypting message: 6.580352783203125e-05
+2024-04-21 18:46:14,421 - __main__ - INFO - Received: b''
+2024-04-21 18:46:14,421 - __main__ - INFO - Time taken for decrypting message: 0.11917829513549805
+2024-04-21 18:46:14,421 - __main__ - INFO - Time taken for encrypting message: 9.131431579589844e-05
+2024-04-21 18:46:14,541 - __main__ - INFO - Received: b''
+2024-04-21 18:46:14,541 - __main__ - INFO - Time taken for decrypting message: 0.11916160583496094
+2024-04-21 18:46:14,541 - __main__ - INFO - Time taken for encrypting message: 8.7738037109375e-05
+2024-04-21 18:46:14,660 - __main__ - INFO - Received: b''
+2024-04-21 18:46:14,660 - __main__ - INFO - Time taken for decrypting message: 0.11919426918029785
+2024-04-21 18:46:14,660 - __main__ - INFO - Time taken for encrypting message: 9.059906005859375e-05
+2024-04-21 18:46:14,779 - __main__ - INFO - Received: b''
+2024-04-21 18:46:14,780 - __main__ - INFO - Time taken for decrypting message: 0.11908435821533203
+2024-04-21 18:46:14,780 - __main__ - INFO - Total Time taken: 0.8408758640289307
